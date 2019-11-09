@@ -268,6 +268,14 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+- I think there are many different things that are very important for code reviews.
+  Narrowing it down to one thing is oversimplifying in my opinion. I would say the 
+  most important things include readability, reproducibility, good comments, and 
+  any way to streamline or otherwise improve the code(make it more flexible, more
+  versatile, faster, etc).
+- Containers could easily  be used to solve this. Just have every computer run the 
+  same image, preferable one maintained by the company. Problem solved.
+
 ### Part 8 - Turn it in!
 
 Provide all the files you wrote (`acme.py`, `acme_report.py`, and
